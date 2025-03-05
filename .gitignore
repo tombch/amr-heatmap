@@ -1,0 +1,5 @@
+data
+.venv
+*.csv
+*.png
+*.html
