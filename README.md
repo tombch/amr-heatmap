@@ -8,7 +8,7 @@ source amr-heatmap/bin/activate
 pip install -r requirements.txt
 ```
 
-## Running the script
+## Running the script
 
 ```
 python amr_heatmap.py <input_csv>
